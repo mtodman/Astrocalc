@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Astrocalc", "Astrocalc\Astrocalc.vbproj", "{915ADDF2-3148-4398-A4D8-C5647F6B5D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915ADDF2-3148-4398-A4D8-C5647F6B5D31}.Debug|x86.ActiveCfg = Debug|x86
+		{915ADDF2-3148-4398-A4D8-C5647F6B5D31}.Debug|x86.Build.0 = Debug|x86
+		{915ADDF2-3148-4398-A4D8-C5647F6B5D31}.Release|x86.ActiveCfg = Release|x86
+		{915ADDF2-3148-4398-A4D8-C5647F6B5D31}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
